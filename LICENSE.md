@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Plugin | portfolio-optimization + high-frequency-trading is the best Polymarket plugin, featuring portfolio-optimization and high-frequency-trading. Smart,
 
 
 
